@@ -1,0 +1,43 @@
+# Godot-specific ignores
+.import/
+export.cfg
+export_presets.cfg
+
+# Imported translations (automatically generated from CSV files)
+*.translation
+
+# Mono-specific ignores
+.mono/
+data_*/
+<body>
+    <h2 style="font-family: Rampart One Regular, Georgia, Times New Roman; background:#D9FFAD; color:#f00caf; text-align:center; margin: 0px; border-style:dotted; text-transform: uppercase"><i>Марченко Юрій Віталійович</i></h2>
+    <h3>Інженерія програмного забезпечення</h3>
+    <img src="anime.jpg">
+    <table>
+    <tr>
+        <td>1</td>
+        <td>2</td>
+        <td>3</td>
+        <td>4</td>
+    </tr>
+    <tr>
+        <td>5</td>
+        <td>6</td>
+        <td>7</td>
+        <td>8</td>
+    </tr>
+    <tr>
+        <td>9</td>
+        <td>10</td>
+        <td>11</td>
+        <td>12</td>
+    </tr>
+    <tr>
+        <td>13</td>
+        <td>14</td>
+        <td>15</td>
+        <td>16</td>
+    </tr>
+</table>
+<a href="https://nuwm.edu.ua/nni-akot/kaf-pm" target="_blank">Кафедра Прикладної математики</a>
+</body>
